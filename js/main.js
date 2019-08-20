@@ -38,7 +38,7 @@ var App = {
         if(ga != undefined) ga('send', 'event', 'publicPGPkey');
     },
         donate: function() {
-        this.echo("\nIf you're feeling generous: [[b;#44D544;]12TT6m7yQHA3Ax272vybYTL6dEdcANZxwv] \n ")
+        this.echo(" null")
         if(ga != undefined) ga('send', 'event', 'tip');
     },
         su: function(user) {
